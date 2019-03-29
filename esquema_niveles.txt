@@ -1,0 +1,41 @@
+1_desarrollo_software Desarrollo de software
+    1_1_lider_desarrollo Líder de desarrollo
+    1_2_desarrollador_software Desarrollador de software
+    1_3_arquitecto_software Arquitecto de software
+
+2_analisis Análisis
+    2_1_analista_funcional Analista funcional
+
+3_diseno Diseño
+    3_1_disenador_web Diseñador web
+    3_2_analista_ux Analista UX (Usabilidad)
+
+4_calidad_software Calidad de software
+    4_1_analista_tester Analista tester
+    4_2_analista_calidad Analista de calidad
+
+5_soporte_infraestructura Soporte de infraestructura
+    5_1_administrador_redes Administrador de redes, comunicaciones y sistemas operativos
+    5_2_administrador_base_datos Administrador de base de datos (dba)
+    5_3_analista_middleware Analista middleware
+    5_4_soporte_tecnico Soporte técnico
+    5_5_especialista_seguridad_informacion Especialista en seguridad de la información
+
+6_implementadores_soporte_usuario Implementadores - soporte a usuario
+    6_1_implementador_configuration_manager Implementador configuration manager
+    6_2_implementador_software_gestion Implementador software de gestión
+
+-----
+
+Responsabilidad
+Competencias
+Nombres de cargos similares
+Misión de la ocupación
+Actividades que realiza
+Estudios
+Conocimientos necesarios
+Competencias, habilidades o aptitudes deseables
+Otras habilidades interpersonales deseables
+Ámbito ocupacional
+Posibles especializaciones o áreas de especialización
+Diferencias por nivel

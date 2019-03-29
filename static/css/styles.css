@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "OpenSans-Light";
+  src: url("../fonts/OpenSans-Light.ttf");
+}
+body {
+  font-family: "OpenSans-Light", sans-serif;
+  /*background: #343a40;*/
+  background: #FFFFFF;
+}
+.section-1 {
+  padding: 10px;
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background: #000000;
+}
+.navbar-light {
+  background: #FFFFFF !important;
+}
+.section-gray {
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.section-white {
+  background: #FFFFFF;
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.fa-lg-service {
+  font-size: 100px !important;
+}
+.fa-arrow-circle-o-up-lg {
+  font-size: 50px !important;
+}
+.section-dark {
+  background: #343a40;
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #FFFFFF;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
+.breadcrumb-margin-top {
+  margin-top: -50px !important;
+}
+.jumbotron-blue {
+  background: #007bff;
+}
